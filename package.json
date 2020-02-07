@@ -1,0 +1,29 @@
+{
+  "private": true,
+  "version": "0.0.0",
+  "scripts": {},
+  "dependencies": {
+    "@types/bluebird": "^3.5.28",
+    "apollo-server": "^2.9.7",
+    "apollo-server-cloud-functions": "^2.9.16",
+    "apollo-server-core": "^2.9.7",
+    "graphql": "^14.5.8",
+    "merge-graphql-schemas": "^1.7.0",
+    "mysql2": "^1.7.0",
+    "reflect-metadata": "^0.1.13",
+    "type-graphql": "^0.17.5",
+    "typedi": "^0.8.0",
+    "typeorm": "^0.2.20",
+    "typeorm-typedi-extensions": "^0.2.3"
+  },
+  "devDependencies": {
+    "@types/node": "^12.11.6",
+    "@typescript-eslint/eslint-plugin": "^2.19.0",
+    "@typescript-eslint/parser": "^2.19.0",
+    "eslint": "^6.8.0",
+    "eslint-config-prettier": "^6.10.0",
+    "eslint-plugin-prettier": "^3.1.2",
+    "prettier": "^1.19.1",
+    "typescript": "^3.2.2"
+  }
+}
